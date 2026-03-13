@@ -1,0 +1,36 @@
+{
+  "name": "PromptHistory",
+  "type": "object",
+  "properties": {
+    "original_prompt": {
+      "type": "string",
+      "description": "The original rough prompt from the user"
+    },
+    "enhanced_prompt": {
+      "type": "string",
+      "description": "The AI-enhanced structured prompt"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "coding",
+        "writing",
+        "analysis",
+        "brainstorming",
+        "research",
+        "general"
+      ],
+      "default": "general",
+      "description": "Category of the prompt"
+    },
+    "is_favorite": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether the prompt is favorited"
+    }
+  },
+  "required": [
+    "original_prompt",
+    "enhanced_prompt"
+  ]
+}

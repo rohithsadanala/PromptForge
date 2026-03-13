@@ -1,33 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab4c6121-d276-4fdd-8101-1822f6955049" name="Changes" comment="" />
+    <list default="true" id="ab4c6121-d276-4fdd-8101-1822f6955049" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/entites/PromptHistory.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/base44Client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PromptForge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PromptForge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entites/PromptHistory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entites/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eslint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/eslint.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsconfig,json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/UserNotRegisteredError.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UserNotRegisteredError.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/prompt/EnhancedOutput.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/prompt/EnhancedOutput.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/prompt/HistoryItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/prompt/HistoryItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/prompt/PromptInput.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/prompt/PromptInput.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/prompt/TemplateCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/prompt/TemplateCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/prompt/TipCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/prompt/TipCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/prompt/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/prompt/promptData.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/prompt/promptData.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/accordion.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/accordion.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/alert-dialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/alert-dialog.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/alert.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/alert.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/aspect-ratio.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/aspect-ratio.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/avatar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/avatar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/badge.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/badge.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/breadcrumb.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/breadcrumb.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/calendar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/calendar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/carousel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/carousel.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/chart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/chart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/checkbox.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/checkbox.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/collapsible.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/collapsible.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/command.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/command.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/contect-menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/contect-menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/dialog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/dialog.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/drawer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/drawer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/dropdown-menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/dropdown-menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/form.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/hover-card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/hover-card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/input-opt.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/input-opt.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/input.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/input.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/label.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/label.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/menubar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/menubar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/navigation-menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/navigation-menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/pagination.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/pagination.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/popover.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/popover.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/progress.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/progress.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/radio-group.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/radio-group.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/resizable.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/resizable.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/scroll-area.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/scroll-area.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/select.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/select.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/separator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/separator.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/sheet.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/sheet.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/sidebar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/skeleton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/skeleton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/slider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/slider.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/sonner.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/sonner.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/swith.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/swith.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/table.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/table.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/tabs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/tabs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/textarea.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/textarea.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/toast.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/toast.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/toaster.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/toaster.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/toggle-group.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/toggle-group.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/toggle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/toggle.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/tooltip.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/tooltip.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/ui/use-toast.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ui/use-toast.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/Client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/use-mobile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/use-mobile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/AuthContext.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/AuthContext.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/PageNotFound.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/PageNotFound.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/app-params.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/app-params.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/query-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/query-client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/History.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/History.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Tips.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Tips.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rohithsadanala&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rohithsadanala/PromptForge.git&quot;,
+    &quot;accountId&quot;: &quot;63064a15-efc5-47d8-9c10-4c1db1f9c6db&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3Anzc6TBU7puNAQLN48hNfob5bi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,5 +165,8 @@
       <updated>1773243201230</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="components.json" />
   </component>
 </project>
