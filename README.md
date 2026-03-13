@@ -2,6 +2,7 @@
 
 This project is a React-based application designed to help users create well-structured and effective prompts for AI assistants. It provides a user-friendly interface for writing, enhancing, and managing prompts.
 
+
 ## Running the Project
 
 To run the project locally, follow these steps:
