@@ -9,7 +9,7 @@ A prompt engineering toolkit for designing, testing, and optimizing LLM prompts.
 ## 💡 What it does
 Helps structure and optimize prompts for better LLM performance across tasks
 
-## 🧠 Feature
+## 🧠 Features
 - Prompt templates for LLM tasks
 - Iterative prompt optimization
 - Testing responses across models
