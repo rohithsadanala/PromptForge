@@ -9,6 +9,7 @@ const navItems = [
   { name: "Tips", icon: Lightbulb, label: "Tips" },
 ];
 
+
 export default function Layout({ children, currentPageName }) {
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100">
