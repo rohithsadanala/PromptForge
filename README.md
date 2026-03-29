@@ -37,4 +37,3 @@ To run the project locally, follow these steps:
     ```
 
 The application will now be running on your local machine.
-
