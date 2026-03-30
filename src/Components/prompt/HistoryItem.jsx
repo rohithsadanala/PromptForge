@@ -12,6 +12,7 @@ export default function HistoryItem({ item, onDelete, onToggleFavorite, index })
     toast.success("Copied to clipboard");
   };
 
+
   return (
     <motion.div
       initial={{ opacity: 0, x: -10 }}

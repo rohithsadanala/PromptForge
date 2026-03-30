@@ -13,6 +13,7 @@ const categories = [
   { value: "research", label: "Research" },
 ];
 
+
 export default function PromptInput({ value, onChange, category, onCategoryChange, onEnhance, isLoading }) {
   return (
     <div className="space-y-4">
