@@ -15,7 +15,6 @@ export const templates = [
     category: "coding",
     prompt: "Help me debug this issue. Walk through the problem step by step, identify potential causes, and suggest fixes."
   },
-
   {
     id: "essay-writer",
     icon: "✍️",

@@ -12,4 +12,3 @@ export const base44 = createClient({
   requiresAuth: false,
   appBaseUrl
 });
-
