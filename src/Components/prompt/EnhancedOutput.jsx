@@ -14,7 +14,6 @@ export default function EnhancedOutput({ enhancedPrompt, onSave, onReset, isSave
     setTimeout(() => setCopied(false), 2000);
   };
 
-
   if (!enhancedPrompt) return null;
 
   return (
